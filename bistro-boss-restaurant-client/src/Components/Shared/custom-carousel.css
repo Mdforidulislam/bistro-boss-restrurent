@@ -1,0 +1,15 @@
+/* custom-carousel.css */
+
+/* Adjust the height and center align the thumbnails */
+.carousel .thumbs-wrapper {
+    height: 50px; /* Set the desired height for thumbnails */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  /* Optionally, you can add more styles to customize the appearance of thumbnails */
+  .carousel .thumb {
+    margin: 0 5px; /* Adjust the spacing between thumbnails */
+    border: 2px solid #ccc; /* Add a border to thumbnails */
+  }
